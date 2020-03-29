@@ -1,8 +1,8 @@
 # Arduino-Robot-Code
-In this project, I have made line follower, bluetooth control and voice control using arduino uno ,L293d motor driver, IR sensor, 12V Battery etc.
+In this project, I have made Line Follower, Bluetooth Control and Voice Control using Arduino uno ,L293d motor driver, IR sensor, 12V Battery etc.
 
-a. line follower follow the black line using ir sensor
+a. Line Follower follow the black line using IR sensor
 
-b. bluetooth controller control by bluetooth module connects with mobile app named as "Arduion Blue Control".
+b. Bluetooth Controller control by bluetooth module connects with mobile app named as "Arduino Blue Control".
 
-c.voice controller control also control by bluetooth module connects with mobile app named as "Arduino voice control".
+c. Voice Controller control also control by Bluetooth module connects with mobile app named as "Arduino voice control".
